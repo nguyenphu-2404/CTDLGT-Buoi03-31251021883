@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Diagnostics;
 
-namespace Bai1_KiemTraDauNgoac
+namespace Bai1
 {
     internal class Program
     {

@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Diagnostics;
 using System.Globalization;
 
-namespace Bai2_MoPhongQuayDichVu
+namespace Bai2
 {
     // Record lưu trữ thông tin cố định của từng khách hàng:
     public record Customer(int Id, long ArrivalTime, long ServiceTime);

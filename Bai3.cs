@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Diagnostics;
 
-namespace Bai3_TuCaiDatHangDoiVong
+namespace Bai3
 {
     public class CircularQueue<T>
     {

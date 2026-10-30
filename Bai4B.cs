@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Bai4_MinStack
+namespace Bai4
 {
     public class MinStack
     {
